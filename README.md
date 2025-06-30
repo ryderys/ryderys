@@ -1,23 +1,57 @@
-👋 Hi, I'm Ashkan!
+# 👋 Hi, I'm Ashkan
 
-I'm a passionate backend developer specializing in JavaScript, Node.js, and Express.js. My journey in the world of programming is fueled by an insatiable curiosity and a love for learning new things.
+I'm a **backend developer** passionate about building robust and scalable web applications using **JavaScript**, **Node.js**, and **Express.js**. I love solving real-world problems with clean, efficient code and continuously improving my development skills.
 
-🚀 Key Skills
-    Languages: JavaScript
-    Frameworks: Node.js, Express.js
-    Other Skills: REST APIs, Databases, and more.
+---
 
-🌱 Eager to Learn
-I thrive on new challenges and am always eager to expand my knowledge and skills. Whether it's diving into new technologies or exploring different aspects of backend development, I'm always up for the adventure.
+## 🚀 Tech Stack
 
-💡 What I Work On
-I'm open to working on a wide variety of projects. From building robust APIs to optimizing server performance, I enjoy every aspect of backend development. My goal is to continuously improve and contribute to projects that make a difference.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-🎯 Goals
-My aspiration is to become a great developer known for creating impactful and innovative solutions. I believe in the power of continuous learning and collaboration to achieve excellence.
+---
 
-🌟 Let's Connect
-Feel free to check out my repositories, contribute, or reach out to collaborate on exciting projects. Let's build something amazing together!
+## 🌱 Currently Exploring
+
+- **TypeScript** – for safer, more scalable code  
+- **Docker** – for containerizing apps  
+- **Testing** – using **Jest** and **Mocha**  
+- **System Design** – building more resilient architecture  
+
+---
+
+## 💡 What I’m Working On
+
+- Designing clean and modular APIs  
+- Optimizing backend performance  
+- Learning advanced authentication and security practices  
+- Contributing to backend-focused open-source projects
+
+---
+
+## 🎯 Career Goals
+
+- Build impactful backend systems  
+- Contribute to open source  
+- Collaborate with forward-thinking teams  
+- Keep growing through new challenges and tech
+
+---
+
+
+## 🤝 Let's Connect
+- 📬 [Email](mailto:youssefi.ashkan.ys@gmail.com)
+- 🔎 Explore my repos and feel free to collaborate!
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+
 <!---
 ryderys/ryderys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
